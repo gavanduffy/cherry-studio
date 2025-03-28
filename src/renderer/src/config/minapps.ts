@@ -88,7 +88,7 @@ export const DEFAULT_MIN_APPS: MinAppType[] = [
   {
     id: 'zhipu',
     name: 'Open WebUI',
-    url: 'https://open.euan.live/',
+    url: 'https://open.WebUI/',
     logo: ZhipuProviderLogo
   },
   {
@@ -106,7 +106,7 @@ export const DEFAULT_MIN_APPS: MinAppType[] = [
   {
     id: 'dashscope',
     name: 'Lobe Chat',
-    url: 'https://chat.euan.live/',
+    url: 'https://chat.Lobe/',
     logo: QwenModelLogo
   },
   {
