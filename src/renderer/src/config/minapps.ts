@@ -87,8 +87,8 @@ export const DEFAULT_MIN_APPS: MinAppType[] = [
   },
   {
     id: 'zhipu',
-    name: '智谱清言',
-    url: 'https://chatglm.cn/main/alltoolsdetail',
+    name: 'Open WebUI',
+    url: 'https://open.euan.live/',
     logo: ZhipuProviderLogo
   },
   {
@@ -105,8 +105,8 @@ export const DEFAULT_MIN_APPS: MinAppType[] = [
   },
   {
     id: 'dashscope',
-    name: '通义千问',
-    url: 'https://tongyi.aliyun.com/qianwen/',
+    name: 'Lobe Chat',
+    url: 'https://chat.euan.live/',
     logo: QwenModelLogo
   },
   {
