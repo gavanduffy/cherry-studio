@@ -86,7 +86,7 @@ export const DEFAULT_MIN_APPS: MinAppType[] = [
   {
     id: 'zhipu',
     name: 'Open WebUI',
-    url: 'https://open.WebUI/',
+    url: 'https://open.euan.live/',
     logo: ZhipuProviderLogo
   },
   {
@@ -109,8 +109,8 @@ export const DEFAULT_MIN_APPS: MinAppType[] = [
   },
   {
     id: 'stepfun',
-    name: '跃问',
-    url: 'https://yuewen.cn/chats/new',
+    name: 'LobeChat',
+    url: 'https://chat.euan.live/',
     logo: YuewenAppLogo,
     bodered: true
   },
